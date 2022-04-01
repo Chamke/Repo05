@@ -5,7 +5,7 @@ function main(){
     var myAdjective = "big";
     var myAdverb = "quickly";
 
-    var wordBlanks = "My " + myNoun + " have a " + myAdjective + " yard and " + myVerb + " around very " + myAdverb + ".";
+    var wordBlanks = "My " + myNoun + " have a " + myAdjective + " yard and " + myVerb + ", " + myAdverb + ".";
     return wordBlanks;
 }
 console.log(main());
