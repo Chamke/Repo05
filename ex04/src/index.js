@@ -1,6 +1,6 @@
 function main(){
 
-    var myString = "FirstLine\n\tSecondLine\nThirdline";
+    var myString = "FirstLine\n\tSecondLine\nThirdLine";
     return myString;
 }
 console.log(main());
